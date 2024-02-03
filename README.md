@@ -1,6 +1,6 @@
 # Personal Portfolio Page Project
 
-![Portfolio](https://github.com/YourUsername/Portfolio/assets/87654321/portfolio-screenshot.png)
+![Portfolio](https://github.com/Salf1-Sabit/Personal-Portfolio-Page/assets/70028517/08e8640e-2554-4dcf-ae03-d66c019e4539)
 
 ## Overview
 The "Personal Portfolio Page" project serves as the culmination of the FreeCodeCamp.org Responsive Web Design course. This project emphasizes responsive web design principles and a mobile first approach to create a dynamic and professional portfolio.
